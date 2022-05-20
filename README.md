@@ -130,9 +130,34 @@ npx mocha test/{{ Model or Request }}/{{Model or Request}}.spec.js --exit
 - [MySQL](https://www.mysql.com/)
 - [MySQL Workbench](https://dev.mysql.com/downloads/mysql/)
 
+## 開發前置套件
+"bcrypt-nodejs": "0.0.3",
+"bcryptjs": "^2.4.3",
+"body-parser": "^1.18.3",
+"chai": "^4.2.0",
+"connect-flash": "^0.1.1",
+"cors": "^2.8.5",
+"dotenv": "^10.0.0",
+"express": "^4.16.4",
+"express-session": "^1.15.6",
+"faker": "^4.1.0",
+"imgur": "^1.0.2",
+"jsonwebtoken": "^8.5.1",
+"method-override": "^3.0.0",
+"mocha": "^6.0.2",
+"multer": "^1.4.3",
+"mysql2": "^1.6.4",
+"passport": "^0.4.0",
+"passport-jwt": "^4.0.0",
+"passport-local": "^1.0.0",
+"sequelize": "^6.18.0",
+"sequelize-cli": "^5.5.0",
+"sinon": "^10.0.0",
+"sinon-chai": "^3.3.0"
+
 ## 開發人員
 |    name    | account                |
 | ---------- | -------                | 
-| Angela       |   |
+| Angela       |  https://github.com/AngelaC123 |
 | Charles | https://github.com/Kaminoikari |
 
