@@ -131,5 +131,8 @@ npx mocha test/{{ Model or Request }}/{{Model or Request}}.spec.js --exit
 - [MySQL Workbench](https://dev.mysql.com/downloads/mysql/)
 
 ## 開發人員
-
+|    name    | account                |
+| ---------- | -------                | 
+| Angela       |   |
+| Charles | https://github.com/Kaminoikari |
 
