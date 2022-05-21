@@ -3,7 +3,7 @@
 Simple Twitter是一個復刻twitter的社群平台，使用者可以追蹤其他使用者、發布推文、對推文進行回覆及按下喜歡。 
 
 ## Live Demo
-[連結](https://ansticefish.github.io/simple-twitter-front-end/)
+[網站連結](https://ansticefish.github.io/simple-twitter-front-end/)
 
 
 DEMO 帳號
