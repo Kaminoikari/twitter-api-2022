@@ -14,6 +14,15 @@ DEMO 帳號
 | admin      |    root@example.com    | 12345678 |
 ## 前端repo
 
+[前端REPO]https://github.com/Ansticefish/simple-twitter-front-end
+
+|    name    | account                |
+| ---------- | -------                | 
+| 曉榆       |  https://github.com/Ansticefish |
+| Zoe Chen | https://github.com/zoe19940213 |
+
+
+
 ## 安裝流程
 此安裝流程為本地端(local)使用。
 
