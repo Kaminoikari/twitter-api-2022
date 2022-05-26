@@ -16,11 +16,11 @@ DEMO 帳號
 
 [前端REPO]https://github.com/Ansticefish/simple-twitter-front-end
 
+## 前端開發人員
 |    name    | account                |
 | ---------- | -------                | 
 | 曉榆       |  https://github.com/Ansticefish |
 | Zoe Chen | https://github.com/zoe19940213 |
-
 
 
 ## 安裝流程
@@ -164,7 +164,7 @@ npx mocha test/{{ Model or Request }}/{{Model or Request}}.spec.js --exit
 - "sinon": "^10.0.0",
 - "sinon-chai": "^3.3.0"
 
-## 開發人員
+## 後端開發人員
 |    name    | account                |
 | ---------- | -------                | 
 | Angela       |  https://github.com/AngelaC123 |
