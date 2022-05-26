@@ -167,6 +167,6 @@ npx mocha test/{{ Model or Request }}/{{Model or Request}}.spec.js --exit
 ## 後端開發人員
 |    name    | account                |
 | ---------- | -------                | 
-| Angela       |  https://github.com/AngelaC123 |
-| Charles | https://github.com/Kaminoikari |
+| Charles       | https://github.com/Kaminoikari   |
+| Angela | https://github.com/AngelaC123|
 
