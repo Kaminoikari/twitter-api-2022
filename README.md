@@ -5,7 +5,8 @@ Simple Twitter是一個復刻twitter的社群平台，使用者可以追蹤其�
 ## Live Demo
 [網站連結](https://ansticefish.github.io/simple-twitter-front-end/)
 
-![Hnet com-image](https://user-images.githubusercontent.com/55652178/170491392-5169772f-e3f4-49c7-a479-6fae7b3bc4a6.gif)
+![Hnet-image](https://user-images.githubusercontent.com/55652178/170492368-46a36359-1a4e-48a3-892f-e48241f2aff4.gif)
+
 
 
 
